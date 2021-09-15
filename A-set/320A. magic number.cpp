@@ -22,7 +22,7 @@ int main()
 
             else if(s[i]=='1')
             {
-                i++;//cout<<"14"<<endl;
+                i++;//cout<<"1"<<endl;
             }
 
             else
